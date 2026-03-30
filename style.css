@@ -72,6 +72,13 @@ main {
 }
 
 /* Home page */
+.headshot {
+  width: 180px;
+  border-radius: 4px;
+  float: right;
+  margin: 0 0 1rem 1.5rem;
+}
+
 .bio {
   font-size: 1.05rem;
   line-height: 1.7;
